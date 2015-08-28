@@ -1,0 +1,52 @@
+html {
+	height: 500px;
+	width: 577px;
+	font-style: Arial, sans-serif;
+}
+
+.head{
+	color: #fff;
+	background-color: #ed1a2e;
+	text-align: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+h1{
+	font-size: 300%;
+}
+
+h2{
+	font-size: 225%;
+}
+
+.cups{
+	max-width: 362px;
+	float: left;
+}
+	
+.caption{
+	max-width: 150px;
+	padding: 10px;
+	background-color: #c93a4a;
+	float: left;
+}
+
+#first{
+	font-weight: bold;
+	color: #fff;
+}
+
+#second{
+	color: #fff;
+}
+
+#third{
+	font-weight: bold;
+}
+
+.border{
+	max-width: 31px;
+	float: right;
+}
+
