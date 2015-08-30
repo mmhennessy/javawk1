@@ -1,6 +1,6 @@
 html {
-	height: 500px;
-	width: 577px;
+	height: 300px;
+	width: 568px;
 	font-style: Arial, sans-serif;
 }
 
@@ -8,8 +8,6 @@ html {
 	color: #fff;
 	background-color: #ed1a2e;
 	text-align: center;
-	padding-top: 2px;
-	padding-bottom: 2px;
 }
 
 h1{
@@ -27,7 +25,7 @@ h2{
 	
 .caption{
 	max-width: 150px;
-	padding: 10px;
+	padding: 5px;
 	background-color: #c93a4a;
 	float: left;
 }
